@@ -1,13 +1,13 @@
 🚀 Setup test multiple request 🚀
 
-# step 1: Download and setup locust
+## step 1: Download and setup locust
 
-## Install locust
+### Install locust
   - pip3 install locust
-## Prebuild locust
+### Prebuild locust
   - pip3 install -U --pre locust
 
-# Step 2: 
+## Step 2: 
   - Setup script
 
   **Example:**
